@@ -1,7 +1,11 @@
 import React from "react";
-// import {Card, CardGroup} from "react-bootstrap";
-// import 'bootstrap/dist/css/bootstrap.min.css';
-import yi from "../../img/IMG_clean.svg";
+import Adulis from "../../img/Adulis-SC";
+import photoPort from "../../img/Photo-biz";
+import foodsDelight from "../../img/Foods-Delight";
+import pizzaHunt from "../../img/Pizza-hunt";
+import codeSavior from "../../img/Code-Savior";
+import mvc from "../../img/MVCSocial";
+
 
 function project() {
   return (
