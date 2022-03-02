@@ -8,6 +8,41 @@ import mvc from "../../img/MVCSocial";
 
 
 function project() {
+
+const projectMenu = [
+    {
+        name: 'Adulis',
+        url: 'https://adulis.herokuapp.com/',
+        image: Adulis
+    },
+    {
+        name: 'PhotoPort',
+        url: 'https://nahom-assefa.github.io/photo-port/',
+        image: photoPort
+    },
+    {
+        name: 'Recipe App',
+        url: 'https://nahom-assefa.github.io/Foods-delight/',
+        image: foodsDelight,
+    },
+    {
+        name: 'Mongo Pizza App',
+        url: 'https://pizza4life.herokuapp.com/',
+        image: pizzaHunt,
+    },
+    {
+        name: 'Code Savior',
+        url: 'https://codesavior.herokuapp.com/',
+        image: codeSavior,
+    },
+    {
+        name: 'SQL Social Network',
+        url: 'https://nahomtechblog.herokuapp.com/',
+        image: mvc,
+    }
+]
+
+
   return (
     <section id="work">
       <div className="card">
