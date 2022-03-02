@@ -1,6 +1,8 @@
 import './App.css';
-import Intro from './components/Intro/Intro'
-import Project from './components/Project/project'
+import Intro from './components/Intro/Intro';
+import Project from './components/Project/project';
+
+
 
 function App() {
   return (
