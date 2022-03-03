@@ -1,6 +1,6 @@
 .i {
     display: flex;
-    height: 100vh;
+    height: 80vh;
     background-color: black;
   }
   
@@ -40,6 +40,10 @@
     height: 100%;
     animation: move 8s ease-in-out infinite alternate;
   }
+/* 
+  .i-desc {
+    display: inline-block;
+  } */
   
   @keyframes move {
     25% {

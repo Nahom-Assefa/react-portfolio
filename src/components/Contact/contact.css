@@ -1,0 +1,63 @@
+.contact {
+    height: 60vh;
+    position: relative;
+    background-color: #D3D3D3;
+}
+
+.c-bg {
+    width: 20px;
+    height: 100%;
+    /* background-color: black; */
+    position: absolute;
+}
+
+ .c-wrapper {
+    padding: 50px;
+    display: flex;
+    /* grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1, 1fr); */
+} 
+
+.c-left{
+    flex: 1;
+    text-align: left;
+}
+
+.c-right {
+    flex: 1;
+}
+
+.c-title {
+    font-size: 30px;
+    width: 30%;
+    text-align: center;
+}
+
+.c-info-item {
+    display: flex;
+    align-items: center;
+    margin: 50px 0px;
+    font-weight: 300;
+    width: 70%;
+    margin-left: 30px;
+}
+
+.c-icon {
+    width: 30px;
+    height: 30px;
+}
+
+.c-desc {
+    font-weight: 200;
+}
+
+form {
+    margin-top: 20px;
+}
+
+input {
+    width: 50%;
+    height: 50px;
+    border: none;
+    border-bottom: 1px solid black;
+}

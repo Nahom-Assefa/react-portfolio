@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import './components/Intro/intro.css';
 import './components/Project/project.css';
+import './components/Contact/contact.css'
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

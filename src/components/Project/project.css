@@ -1,0 +1,26 @@
+/* .card {
+    height: 33.3333333%;
+    width: 33.3333333%;
+    float: right;
+} */
+
+ .card-img-top {
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.card-img-cont {
+    height: 100%;
+    width: 100%;
+}
+
+.card-body {
+    border: solid black;
+} 
+
+#work {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+}
