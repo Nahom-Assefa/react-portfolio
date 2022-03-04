@@ -49,8 +49,8 @@ const projectMenu = [
 
   return (
     <section id="work">
-     {projectMenu.map((proj) => (
-      <div className="card">
+     {projectMenu.map((proj, i) => (
+      <div className="card" key={i}>
         <div className="card-img-cont">
         <img src={proj.image} className="card-img-top" alt="" />
         </div>
