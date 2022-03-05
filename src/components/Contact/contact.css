@@ -54,4 +54,8 @@ input {
         display: flex;
         flex-direction: column;
     }
+
+    .c-info {
+        text-align: center;
+    }
 }
