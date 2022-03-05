@@ -1,10 +1,4 @@
-/* .card {
-    height: 33.3333333%;
-    width: 33.3333333%;
-    float: right;
-} */
-
- .card-img-top {
+.card-img-top {
     height: 100%;
     object-fit: cover;
     object-position: center;
@@ -23,4 +17,15 @@
     display: grid;
     grid-template-rows: repeat(2, 1fr);
     grid-template-columns: repeat(3, 1fr);
+}
+
+
+@media screen and (max-width: 480px) {
+    #work {
+        display: flex;
+        flex-direction: column;
+        gap: 2%;
+        column-gap: 2%;
+
+    }
 }

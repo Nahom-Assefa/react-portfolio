@@ -6,9 +6,9 @@ function Intro() {
     <div className="i">
       <div className="i-left">
         <div className="i-left-wrapper">
-          <h2 className="i-intro"> Hello, my name is</h2>
-          <h1 className="i-name"> Nahom Assefa </h1>
-          <h3 className="i-role"> Software Programmer</h3>
+          <h5 className="i-intro"> Hello, my name is</h5>
+          <h4 className="i-name"> Nahom Assefa </h4>
+          <h5 className="i-role"> Software Programmer</h5>
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item"> MongoDB </div>
