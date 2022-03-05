@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.e433dc76.css",
+    "main.js": "/react-portfolio/static/js/main.d2b73bca.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Photo-biz.png": "/react-portfolio/static/media/Photo-biz.3b3141ff9659a881a03c.png",
+    "static/media/Foods-Delight.png": "/react-portfolio/static/media/Foods-Delight.0edb82557dd7e3c38d6f.png",
+    "static/media/Adulis-SC.png": "/react-portfolio/static/media/Adulis-SC.d66f6660e45675ecb5b0.png",
+    "static/media/Code-Savior.png": "/react-portfolio/static/media/Code-Savior.dc844dfeaca91dcac4b6.png",
+    "static/media/IMG_clean.svg": "/react-portfolio/static/media/IMG_clean.6883287092544cbb238287c015403408.svg",
+    "static/media/MVCSocial.png": "/react-portfolio/static/media/MVCSocial.7ecd578f8739e13d5eb3.png",
+    "static/media/Pizza-hunt.png": "/react-portfolio/static/media/Pizza-hunt.ab5818fd6e8bfb85ece6.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.e433dc76.css.map": "/react-portfolio/static/css/main.e433dc76.css.map",
+    "main.d2b73bca.js.map": "/react-portfolio/static/js/main.d2b73bca.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e433dc76.css",
+    "static/js/main.d2b73bca.js"
+  ]
+}
