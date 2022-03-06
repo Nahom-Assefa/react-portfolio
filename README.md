@@ -1,6 +1,9 @@
 # React Portfolio
 A react based portfolio showing an array of projects completed by myself over the tenure of pursuing my full-stack certification at University Of Minnesota.
 
+## Deployed Link
+https://nahom-assefa.github.io/react-portfolio/
+
 ![React Portfolio Screenshot](react-md.png)
 
 ## Table of Contents
