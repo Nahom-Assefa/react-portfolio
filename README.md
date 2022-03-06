@@ -4,6 +4,7 @@ A react based portfolio showing an array of projects completed by myself over th
 ## Deployed Link
 https://nahom-assefa.github.io/react-portfolio/
 
+## Screenshot
 ![React Portfolio Screenshot](react-md.png)
 
 ## Table of Contents
