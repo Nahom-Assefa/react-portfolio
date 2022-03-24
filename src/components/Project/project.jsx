@@ -5,6 +5,7 @@ import foodsDelight from "../../img/Foods-Delight.png";
 import pizzaHunt from "../../img/Pizza-hunt.png";
 import codeSavior from "../../img/Code-Savior.png";
 import mvc from "../../img/MVCSocial.png";
+import joyNews from "../../img/Joy-News.png";
 
 function project() {
 
@@ -34,10 +35,10 @@ const projectMenu = [
         description: 'Share your love of pizza with this social web application'
     },
     {
-        name: 'Code Savior',
-        url: 'https://codesavior.herokuapp.com/',
-        image: codeSavior,
-        description: 'Web application for sharing study resources'
+        name: 'Joy News',
+        url: 'https://joynews.herokuapp.com/',
+        image: joyNews,
+        description: 'News Site with only positive headlines built with MERN stack'
     },
     {
         name: 'SQL Social Network',
